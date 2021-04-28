@@ -8,7 +8,6 @@
 *.tar.gz
 *.rar
 target
-.github
 .settings
 .classpath
 .project
