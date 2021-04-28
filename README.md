@@ -9,6 +9,7 @@ Este projeto foi criado com o propósito de treinar lógica de programação.
 </p>
 
 <p align="center">
+	<a href="#Aulas">Aulas</a> •
 	<a href="#Autor">Autor</a> •
 	<a href="#Licença">Licença</a>
 </p>
