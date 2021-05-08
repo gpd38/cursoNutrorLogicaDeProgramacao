@@ -14,6 +14,9 @@ Este projeto foi criado com o propósito de treinar lógica de programação.
 	<a href="#Licença">Licença</a>
 </p>
 
+### Aulas
+
+
 ### Autor
 
 <table>
