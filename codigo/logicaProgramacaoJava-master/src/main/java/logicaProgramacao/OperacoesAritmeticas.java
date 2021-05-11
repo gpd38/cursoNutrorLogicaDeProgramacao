@@ -121,31 +121,9 @@ public class OperacoesAritmeticas {
 	 * 16. Entrar via teclado com o valor de um ângulo em graus, calcular e exibir
 	 * as seguintes funções trigonométricas: seno, coseno, tangente e secante deste
 	 * ângulo. Lembre-se que uma função trigonométrica trabalha em radianos.
+	 * 1 Pi Rad = 180 graus
 	 */
-	public double getFuncaoSeno(double angulo) {
-		double seno = 0;
-
-		return seno;
-	}
-
-	public double getFuncaoCoseno(double angulo) {
-		double coseno = 0;
-
-		return coseno;
-	}
-
-	public double getFuncaoTangente(double angulo) {
-		double tangente = 0;
-
-		return tangente;
-	}
-
-	public double getFuncaoSecante(double angulo) {
-		double secante = 0;
-
-		return secante;
-	}
-
+	
 	/**
 	 * 17. Entrar via teclado com dois valores quaisquer “X” e “X”. Calcular e
 	 * exibir o cálculo XY (“X” elevado a “Y”). Pesquisar as funções Exp e Ln.
