@@ -6,7 +6,8 @@ import org.junit.Test;
 
 public class DecisaoLogicaTest {
 	DecisaoLogica decisaoLogica = new DecisaoLogica();
-	
+
+	/** Teste 19 */
 	@Test
 	public void validaMaiorValor1() {
 		int val1 = 10;
@@ -21,6 +22,40 @@ public class DecisaoLogicaTest {
 		assertEquals(6, decisaoLogica.getMaior(val1, val2));
 	}
 
+	/** Teste 20 */
+
+	/** Teste 21 */
+	@Test
+	public void validaMaiorIgualVal1() {
+		int val1 = 10;
+		int val2 = 9;
+		int maior = (int) decisaoLogica.getMaiorIgual(val1, val2);
+		assertEquals(10, maior);
+	}
+
+	@Test
+	public void validaMaiorIgualVal2() {
+		int val1 = 10;
+		int val2 = 11;
+		int maior = (int) decisaoLogica.getMaiorIgual(val1, val2);
+		assertEquals(11, maior);
+	}
+
+	@Test
+	public void validaMaiorIgual() {
+		int val1 = 10;
+		int val2 = 10;
+		String igual = (String) decisaoLogica.getMaiorIgual(val1, val2);
+		assertEquals("numeros identicos", igual);
+	}
+
+	/** Teste 22 */
+	
+	/** Teste 23 */
+	
+	/** Teste 24 */
+	
+	/** Teste 25 */
 	@Test
 	public void validaAbaixoDoPeso() {
 		double peso = 60;
@@ -45,28 +80,17 @@ public class DecisaoLogicaTest {
 		assertEquals("Acima do peso", r);
 	}
 
-	@Test
-	public void validaMaiorIgualVal1() {
-		int val1 = 10;
-		int val2 = 9;
-		int maior = (int) decisaoLogica.getMaiorIgual(val1, val2);
-		assertEquals(10, maior);
-	}
+	/** Teste 26 */
+	// Triangulo
 
-	@Test
-	public void validaMaiorIgualVal2() {
-		int val1 = 10;
-		int val2 = 11;
-		int maior = (int) decisaoLogica.getMaiorIgual(val1, val2);
-		assertEquals(11, maior);
-	}
-
-	@Test
-	public void validaMaiorIgual() {
-		int val1 = 10;
-		int val2 = 10;
-		String igual = (String) decisaoLogica.getMaiorIgual(val1, val2);
-		assertEquals("numeros identicos", igual);
-	}
+	/** Teste 27 */
+	
+	/** Teste 28 */
+	
+	/** Teste 29 */
+	
+	/** Teste 30 */
+	
+	/** Teste 31 */
 
 }
