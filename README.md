@@ -16,6 +16,12 @@ Este projeto foi criado com o propósito de treinar lógica de programação.
 
 ### Aulas
 
+- Aula 1: Operações Aritméticas simples. 
+- Aula 2: Decisão Lógica. 
+- Aula 3: Estrutura de Repetição.
+
+A lista de exercícios propostos pode ser encontrada neste [link](https://github.com/gpd38/cursoNutrorLogicaDeProgramacao/blob/master/codigo/logicaProgramacaoJava-master/lib/exercicios%20logica.doc).
+
 
 ### Autor
 
