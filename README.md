@@ -1,4 +1,4 @@
-# Curso Nutror Lógica de Programação
+# Curso Nutror Lógica de Programação 1.0
 
 Este projeto foi criado com o propósito de treinar lógica de programação.
 
