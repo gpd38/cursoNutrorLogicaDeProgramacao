@@ -26,7 +26,7 @@ A lista de exercícios propostos pode ser encontrada neste [link](https://github
 ### Código
 
 |Aula|Link de acesso DEV|Link de acesso TEST|
-|----|--------------|
+|----|------------------|-------------------|
 |Aula01|[Operações Aritméticas simples DEV](https://github.com/gpd38/cursoNutrorLogicaDeProgramacao1.0/blob/master/codigo/logicaProgramacaoJava-master/src/main/java/logicaProgramacao/OperacoesAritmeticas.java)|[Operações Aritméticas simples TEST](https://github.com/gpd38/cursoNutrorLogicaDeProgramacao1.0/blob/master/codigo/logicaProgramacaoJava-master/src/test/java/logicaProgramacao/OperacoesAritmeticaTest.java)|
 |Aula02|[Decisão Lógica DEV](https://github.com/gpd38/cursoNutrorLogicaDeProgramacao1.0/blob/master/codigo/logicaProgramacaoJava-master/src/main/java/logicaProgramacao/DecisaoLogica.java)|[Decisão Lógica TEST](https://github.com/gpd38/cursoNutrorLogicaDeProgramacao1.0/blob/master/codigo/logicaProgramacaoJava-master/src/test/java/logicaProgramacao/DecisaoLogicaTest.java)|
 |Aula03|[Estrutura de Repetição DEV](https://github.com/gpd38/cursoNutrorLogicaDeProgramacao1.0/blob/master/codigo/logicaProgramacaoJava-master/src/main/java/logicaProgramacao/EstruturaRepeticao.java)|[Estrutura de Repetição TEST](https://github.com/gpd38/cursoNutrorLogicaDeProgramacao1.0/blob/master/codigo/logicaProgramacaoJava-master/src/test/java/logicaProgramacao/EstruturaRepeticaoTest.java)|
