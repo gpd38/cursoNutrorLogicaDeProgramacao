@@ -62,6 +62,11 @@ public class OperacoesAritmeticaTest {
 	}
 
 	/** Teste 08 */
+	@Test
+	public void validaConversaoMilhas() {
+		double milhas = opAritmeticas.getMilhaMaritimaEmKilometro(0);
+		assertEquals(0, milhas,0);
+	}
 
 	/** Teste 09 */
 

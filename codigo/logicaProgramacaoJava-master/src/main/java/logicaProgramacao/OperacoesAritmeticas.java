@@ -72,7 +72,12 @@ public class OperacoesAritmeticas {
 	 * 08. Sabendo que uma milha marítima equivale a um mil, oitocentos e cinqüenta
 	 * e dois metros e que um quilômetro possui mil metros, fazer um programa para
 	 * converter milhas marítimas em quilômetros.
+	 * @param milhas 
 	 */
+	public double getMilhaMaritimaEmKilometro(int milhas) {
+		double milhaEmKm = 0;
+		return milhaEmKm;
+	}
 
 	/**
 	 * 09. Calcular e exibir a tensão de um determinado circuito eletrônico a partir
